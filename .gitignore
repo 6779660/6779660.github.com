@@ -1,0 +1,7 @@
+build/
+tmp/
+*.swp
+*.tmp
+*.temp
+*.o
+*.obj
